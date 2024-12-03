@@ -1,0 +1,26 @@
+- Make files
+- Unix
+- Git
+- C Programming
+	- pointers and pointer manipulation
+	- structures
+	- pass by value / pass by reference
+	- header files
+		- macros
+		- typedef
+		- prototypes
+	- Memory management
+		- size of types (32 bit for exam)
+		- malloc
+		- free
+	- Files
+	- applications of C
+		- any 228 data structure
+	- Command line arguments
+- Applications of C programming
+	- pointers
+		- void *
+		- pointer arithmetic
+		- de-reference
+		- address of
+		- passing pointers
